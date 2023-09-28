@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1695925881932,
+      "tag": "0000_clear_squadron_sinister",
+      "breakpoints": true
+    }
+  ]
+}
